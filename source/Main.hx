@@ -26,7 +26,7 @@ import sys.FileSystem;
 import sys.io.File;
 import sys.io.Process;
 #if android
-inport android.Hardware;
+import android.Hardware;
 #end
 
 // Here we actually import the states and metadata, and just the metadata.
